@@ -1,5 +1,5 @@
 # wf-market-price-bot
-small project to bulk update current wfmarket orders using lowest existing price
+small project to bulk update current wfmarket orders using the existing online listings
 
 ## To Run
 1. create `credentials.json` file in the root repository and populate `email` and `password`
